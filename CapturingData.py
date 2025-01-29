@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as  pd
 import numpy as np
 from datetime import date, timedelta,datetime
-from st_on_hover_tabs import on_hover_tabs
+#from st_on_hover_tabs import on_hover_tabs
 from dateutil.relativedelta import relativedelta
 import sqlalchemy as sa
 # python -m streamlit run CapturingData.py   
